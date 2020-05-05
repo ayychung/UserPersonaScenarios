@@ -2,8 +2,8 @@ User Personas + Scenarios
 
 Persona 1: Matthew the High School Student 
 
-src<https://user-images.githubusercontent.com/63014463/81114001-00747880-8ed6-11ea-9bb5-a5591ab25e8b.jpg>
-src<https://user-images.githubusercontent.com/63014463/81114002-010d0f00-8ed6-11ea-97eb-8fc9162f005c.jpg>
+<img src=https://user-images.githubusercontent.com/63014463/81114001-00747880-8ed6-11ea-9bb5-a5591ab25e8b.jpg>
+<img src=https://user-images.githubusercontent.com/63014463/81114002-010d0f00-8ed6-11ea-97eb-8fc9162f005c.jpg>
 
 Demographic
 Age: 16
